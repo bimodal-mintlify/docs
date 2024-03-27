@@ -29,6 +29,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "lol",
+      "url": "lol"
     }
   ],
   "anchors": [
@@ -71,6 +75,12 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "LMAP EVEN",
+      "pages": [
+        "lol/introduction"
       ]
     },
     {
