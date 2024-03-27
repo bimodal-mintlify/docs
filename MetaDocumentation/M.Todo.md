@@ -1,7 +1,5 @@
-Fix:
-- Interpreting Geoholdout page crashing server (500 Error)
 Add:
-- Image hosting on mintlify rather than backhosting from notion
+- Colours to colour words (Find out how/if)
 Read:
 - [[M.Existing Documentation]] for content
 - [[M.Example Documentation]] for format
