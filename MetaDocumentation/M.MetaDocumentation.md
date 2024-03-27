@@ -1,0 +1,8 @@
+[[M.Aidan Thoughts]]
+[[M.Documentation Ux gut thoughts]]
+[[M.Loose Structure for Certification Course]]
+[[M.Markdown]]
+[[M.Todo]]
+[[M.Usecases]]
+[[M.Example Course]]
+[[M.Geoholdouts]]
