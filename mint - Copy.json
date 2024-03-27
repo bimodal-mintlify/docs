@@ -34,10 +34,6 @@
       "name": "lol",
       "url": "lol"
     }
-    {
-      "name": "Pushed Old Documentation",
-      "url": "Pushed Old Documentation"
-    }
   ],
   "anchors": [
     {
@@ -57,6 +53,13 @@
     }
   ],
   "navigation": [
+    {
+      "group": "Documentation",
+      "pages": [
+        "Pushed Old Documentation/pold.Glossary",
+        "Pushed Old Documentation/pold.Splash"
+      ]
+    },
     {
       "group": "Essentials",
       "pages": [
@@ -78,13 +81,6 @@
       "group": "LMAP EVEN",
       "pages": [
         "lol/introduction"
-      ]
-    },
-    {
-      "group": "Pushed Old Documentation",
-      "pages": [
-        "Pushed Old Documentation/pold.Splash",
-        "Pushed Old Documentation/pold.Glossary"
       ]
     },
     {
