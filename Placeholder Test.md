@@ -1,0 +1,6 @@
+---
+title: "Page Title"
+sidebarTitle: "Sidebar title (optional - if different from page title)"
+description: "Subtitle (optional)"
+---
+Just placeholder things
