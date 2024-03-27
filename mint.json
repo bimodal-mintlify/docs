@@ -50,11 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Documentation",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Bimodal Documentation",
+        "Glossary"
       ]
     },
     {
