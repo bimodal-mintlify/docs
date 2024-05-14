@@ -1,0 +1,11 @@
+Splash
+- Wiki priming 
+	- How to use
+	- [[T.Interface|Interface]]
+		- Sidebar/Tabs
+			- Documentation tab (Technical)
+			- Education tab
+		- (Any other priming eg., symbol meaning)
+- Link to [[T.NewUserGuide|New User Guide]]
+- (Typical Tool Flow)
+- ((Any extra tools?))

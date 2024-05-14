@@ -65,7 +65,7 @@ Scaffold:
 	- (Crosslinks to Technical Documentation?)
 	- What can I *do* with Bimodal?
 		- Geoholdouts
-		- 	Introduction to Experiments
+			- Introduction to Experiments
 			- Sanity Checking Your Experiment
 			- Caveats/Assumptions of GH
 			- **Test Validation**

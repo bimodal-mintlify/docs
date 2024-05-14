@@ -1,0 +1,1 @@
+((Covers the onboarding process from account creation to first tool use))

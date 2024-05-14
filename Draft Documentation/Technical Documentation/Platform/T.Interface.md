@@ -1,0 +1,36 @@
+- Sidebar
+	- [[#Dashboard]]
+	- [[T.CustomGraphs|Custom Graphs]]
+		- [[T.Geoholdout]]
+			- Test Market Report
+			- [[T.Geoholdout#Tests]]
+		- [[T.MediaMixModels]]
+			- Options
+			- Model Drift
+			- Model Selection
+			- Model Details
+			- Adstock Decay
+			- Budget Optimisation
+			- Spend Response
+		- Uplift Tests.
+- Account button
+			- Database Status
+			- Data Manager
+				- Upload CSV
+				- Channel Definitions
+				- Connection Manager
+				- Query Manager
+			- Annotations
+			- Settings
+			- Logout
+
+# Dashboard
+- Dashboard Contents
+	- Dropdown menu for timescale
+	- Channel Mix Graph
+		- What does it show?
+			- Click 'Channel Mix' title for more detailed options
+				- What are these options
+			- Click a given channel to suppress to suppress
+		- Any [[T.CustomGraphs|Custom Graphs]]
+		- (Will anything else appear here?)
