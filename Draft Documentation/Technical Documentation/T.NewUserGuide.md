@@ -1,1 +1,1 @@
-((Covers the onboarding process from account creation to first tool use))
+((Covers the onboarding process from account creation to first tool use. Link for how to do each thing))
