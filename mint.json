@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "lol",
-      "url": "lol"
+      "name": "Draft Documentation",
+      "url": "Draft"
     }
   ],
   "anchors": [
@@ -69,9 +69,9 @@
       ]
     },
     {
-      "group": "LMAP EVEN",
+      "group": "Running a Geoholdout",
       "pages": [
-        "lol/introduction",
+        "Draft/D.Geoholdout",
         "lol/Outro"
       ]
     }
